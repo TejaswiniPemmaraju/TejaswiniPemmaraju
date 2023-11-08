@@ -4,8 +4,6 @@ I am Tejaswini Pemmaraju, a data analytics professional looking to build an impa
 
 📫 Email: tejaswini.pemmaraju@duke.edu 
 
-🤔 Website: https://tejaswinipemmaraju.wixsite.com/my-site-1
-
 🌱 Education: Masters in Business Analytics (Finance), Masters in Computer Science, Bachelors in Computer Science and Engineering
 
 
